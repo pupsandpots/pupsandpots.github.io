@@ -16,3 +16,5 @@ See some of her past projects [here](gallery).
 ### Contact
 
 For inquiries contact Kelley directly at someone@email.com
+
+![Logo](images/pandp_s.png)
