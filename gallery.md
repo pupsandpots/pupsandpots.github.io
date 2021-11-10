@@ -4,4 +4,6 @@ title: Gallery
 
 [Home](index)
 
-## Coming soon
+## Coming soon!
+
+![Logo](images/pandp_s.png)
