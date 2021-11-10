@@ -11,7 +11,7 @@ title: Pups and Pots
 Kelley is making hand-built and wheel-spun pottery in Boulder, CO.
 
 ### [Gallery](gallery)
-See some of my past projects [here](gallery).
+See some of her past projects [here](gallery).
 
 ### Contact
 
