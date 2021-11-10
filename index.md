@@ -6,8 +6,8 @@
 
 Kelley is making hand-built and wheel-spun pottery in Boulder, CO.
 
-### [Gallery](gallery.md)
-See some of my past projects [here](gallery.md).
+### [Gallery](gallery)
+See some of my past projects [here](gallery).
 
 ### Contact
 
