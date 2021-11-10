@@ -1,3 +1,7 @@
+---
+title: Pups and Pots
+---
+
 ## Welcome to Pups and Pots!
 
 ![Pottery wheel](images/wheel.jpg)
