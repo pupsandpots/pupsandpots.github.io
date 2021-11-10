@@ -6,4 +6,4 @@ title: Gallery
 
 ## Coming soon!
 
-![Logo](images/pandp_s.png)
+->![Logo](images/pandp_s.png)<-
