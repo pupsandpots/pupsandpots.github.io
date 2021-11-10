@@ -1,1 +1,5 @@
+---
+title: Gallery
+---
+
 ## Coming soon
