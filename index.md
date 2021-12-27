@@ -1,5 +1,6 @@
 ---
 title: Pups and Pots
+layout: home
 ---
 
 ## Welcome to Pups and Pots!
