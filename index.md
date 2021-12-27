@@ -15,11 +15,8 @@ See some of her past projects [here](gallery).
 
 ### Store
 To browse and purchase items, visit my [Etsy shop](https://www.etsy.com/)!
-![Etsy](images/etsy_logo_sm_rgb.png)
 
-Image with link?
-
-[![Etsy](images/etsy_logo_sm_rgb.png)](https://www.etsy.com/)
+[![Etsy](images/etsy_logo_smaller.png)](https://www.etsy.com/)
 
 ### Contact
 
